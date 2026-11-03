@@ -3,7 +3,7 @@ build
 build2
 nbproject
 vsproject
-Makefile
+#Makefile
 output
 generated/
 
